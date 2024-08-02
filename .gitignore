@@ -1,0 +1,8 @@
+tmp/
+temp/
+.idea/
+.vscode/
+**/__pycache__
+.env
+*.xlsx
+data/
